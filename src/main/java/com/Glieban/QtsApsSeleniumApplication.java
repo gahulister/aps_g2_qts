@@ -1,0 +1,13 @@
+package com.Glieban;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class QtsApsSeleniumApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(QtsApsSeleniumApplication.class, args);
+    }
+
+}
